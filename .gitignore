@@ -1,0 +1,3 @@
+*.pdf
+deployment-outputs.json
+bicepconfig.json
